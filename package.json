@@ -1,0 +1,22 @@
+{
+  "name": "zotlit-reader",
+  "version": "1.0.0-beta.0",
+  "private": true,
+  "description": "Read your PDFs in the ZotLit PDF Reader: link to a selection, embed and preview pages, and place PDFs on a canvas.",
+  "license": "AGPL-3.0-or-later",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aidenlx/zotlit-reader"
+  },
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs"
+  },
+  "dependencies": {
+    "@zotlit/reader-plugin": "1.0.0-beta.0"
+  },
+  "devDependencies": {
+    "vite": "8.1.5"
+  },
+  "packageManager": "pnpm@12.3.4"
+}

@@ -1,0 +1,9 @@
+# The bundle package is published moments before this repository builds
+# it, so the release-age delay leaves it out.
+minimumReleaseAgeExclude:
+  - "@zotlit/reader-plugin"
+
+# Vite and the Rolldown it runs decide the bytes of main.js. These are the
+# versions ZotLit's own release build runs.
+overrides:
+  rolldown: 1.1.5

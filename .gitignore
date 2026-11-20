@@ -1,0 +1,4 @@
+node_modules/
+# Written by `pnpm run build`, and uploaded to each release.
+main.js
+styles.css

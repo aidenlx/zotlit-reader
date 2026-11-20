@@ -1,0 +1,13 @@
+{
+  "id": "zotlit-reader",
+  "name": "ZotLit Reader",
+  "version": "1.0.0-beta.0",
+  "minAppVersion": "1.15.1",
+  "description": "Read your PDFs in the ZotLit PDF Reader: link to a selection, embed and preview pages, and place PDFs on a canvas.",
+  "author": "AidenLx",
+  "authorUrl": "https://github.com/aidenlx",
+  "fundingUrl": {
+    "GitHub Sponsor": "https://github.com/sponsors/aidenlx"
+  },
+  "isDesktopOnly": true
+}
